@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MusicPlayer</string>
+    <string name="song_name_stub">Song Name</string>
 </resources>
